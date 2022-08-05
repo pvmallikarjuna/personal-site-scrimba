@@ -1,13 +1,4 @@
-# coc4f4f2fbd1b7a0f18eaa9af
-
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Enjoying learning from Scrimba!
+My Personal Site created as part of curriculum
+View site : https://pvmallikarjuna.github.io/personal-site-scrimba/
+I know, it's a basic site which looks like the one in 1990s, but Hey, wait until I master Web Dev :)
